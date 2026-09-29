@@ -134,3 +134,22 @@ pharmacy-analytics-sql/
 │   └── Pharmacy_Analytics.sql
 │
 └── screenshots/
+
+## 📸 SQL Analysis Screenshots
+
+### Yearly Prescription Analysis
+
+![Yearly Prescription Analysis](screenshots/yearly_prescriptions.png)
+
+### Top Drug Classes
+
+![Top Drug Classes](screenshots/top_drug_classes.png)
+
+### Payer Analysis
+
+![Payer Analysis](screenshots/payer_analysis.png)
+
+### Year-over-Year Analysis
+
+![Year-over-Year Analysis](screenshots/year_over_year_analysis.png)
+
