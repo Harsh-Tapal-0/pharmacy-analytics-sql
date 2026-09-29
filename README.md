@@ -133,7 +133,7 @@ pharmacy-analytics-sql/
 ├── sql/
 │   └── Pharmacy_Analytics.sql
 │
-└── screenshots/
+
 
 ## 📸 SQL Analysis Screenshots
 
